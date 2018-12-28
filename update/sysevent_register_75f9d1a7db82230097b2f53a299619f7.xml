@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <description>This event is fired for each er1 record</description>
+        <event_name>x_280840_dummy.er1</event_name>
+        <fired_by>Scheduled Script Execution - Find er1</fired_by>
+        <queue/>
+        <suffix>er1</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-04 08:19:18</sys_created_on>
+        <sys_id>75f9d1a7db82230097b2f53a299619f7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_280840_dummy.er1</sys_name>
+        <sys_package display_value="Dummy" source="x_280840_dummy">9facbb06db02230097b2f53a29961922</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dummy">9facbb06db02230097b2f53a29961922</sys_scope>
+        <sys_update_name>sysevent_register_75f9d1a7db82230097b2f53a299619f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-04 08:33:05</sys_updated_on>
+        <table>sys_security_acl</table>
+    </sysevent_register>
+</record_update>
